@@ -8,4 +8,4 @@ to the either the LvsFilm.csv or LvsTube.csv, for Film and TV tube responses res
 
 Then follow the format in the simulateBWMedia.py to output a file with that simulation.
 
-For explanation of the process please read chapter five of the PhD Thesis [https://doras.dcu.ie/28111/](Rethinking auto-colourisation of natural Images in the context of deep learning.)
+For explanation of the process please read chapter five of the PhD Thesis [Rethinking auto-colourisation of natural Images in the context of deep learning.](https://doras.dcu.ie/28111/)
