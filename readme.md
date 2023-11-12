@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="fnevZjAQzGXrltmkeqvS9uQxN6jj_g7YvK_clMydmks" />
+
 # Simulation of Black and White Media from RGB
 
 This method will create a simulated Black and White image for any media for which
